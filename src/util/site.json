@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Sambhav NGO",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "We are a non-government organization, we are looking forward to a peaceful world by helping each other to join hands together to bring a better future for all children and women.",
+    "siteUrl": "https://sambhav.ga",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@sambhav____"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
