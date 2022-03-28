@@ -12,11 +12,11 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        Made by IT Team of Sambhav with{" "}
+        Made with{" "}
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-        by <Link to="/">Stackrole.com</Link>
+        by <Link to="/">by SAMBHAV IT TEAM</Link>
       </p>
     </div>
   </footer>
