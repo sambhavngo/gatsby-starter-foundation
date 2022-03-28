@@ -91,7 +91,7 @@ collections:
                 widget: "string"
       - label: "About"
         name: "about"
-        file: "src/content/pages/about.md"
+        file: "src/content/pages/donate.md"
         fields:
           - {
               label: "Template",
@@ -99,7 +99,7 @@ collections:
               widget: "hidden",
               default: "about-page",
             }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/donate" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"
