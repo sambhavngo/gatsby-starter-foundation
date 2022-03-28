@@ -5,13 +5,8 @@ title: Sambhav
 tagline: Raise Your Helping Hand
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-<<<<<<< Updated upstream
   ctaText: Donate
   ctaLink: /donate
-=======
-  ctaText: Know more
-  ctaLink: Donate
->>>>>>> Stashed changes
 ---
 <!--StartFragment-->
 
