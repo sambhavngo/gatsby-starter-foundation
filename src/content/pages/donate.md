@@ -11,8 +11,7 @@ Donating is a selfless act. One of the major positive effects of donating money 
 
 ![people in need](/assets/charity_donations.jpg "Charity")
 
-We receive payments through 
-
+* We receive payments through 
 * <!--StartFragment-->
 
   #### UPI Transfer
@@ -35,6 +34,8 @@ We receive payments through
 
   <!--EndFragment-->
 
+ <!--StartFragment-->
 
+**FOR BANK TRANSFERS AND MORE INFORMATION PLEASE CONTACT :- +91 7827557740[](tel:+917827557740)**
 
- **FOR BANK TRANSFER AND MORE INFORMATION FOR DONATIONS PLEASE     CONTACT :- +91 7827557740[](tel:+917827557740)**
+<!--EndFragment-->
