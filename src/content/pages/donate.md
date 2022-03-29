@@ -10,9 +10,23 @@ Donating is a selfless act. One of the major positive effects of donating money 
 <!--EndFragment-->
 
 ![people in need](/assets/charity_donations.jpg "Charity")
-  
+
 <!--StartFragment-->
 
-  FOR BANK TRANSFERS AND MORE INFORMATION PLEASE CONTACT :- +91 7827557740
+* #### UPI Transfer
+
+  #### [Unified Payments Interface](http://www.npci.org.in/) **(UPI) is a system that powers multiple bank accounts into a single mobile application (of any participating bank)**
+* #### Paytm 
+
+  **[Paytm](http://paytm.com/) stands for Pay through mobile and it is India's largest mobile payments and commerce platform.**
+
+
+* #### PayPal 
+
+  **[PayPal](http://www.paypal.com/) is one of the largest online payment processors in the world. Sign Up Now! Secure all your Transactions with our 24x7 Fraud Prevention.**
+
+
+
+**FOR BANK TRANSFERS AND MORE INFORMATION PLEASE CONTACT :- +91 7827557740**
 
  <!--EndFragment-->
