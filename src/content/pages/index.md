@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Sambhav
 tagline: Raise Your Helping Hand
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/sambhav_ngo_team_working.jpg
 cta:
   ctaText: Donate
   ctaLink: /donate
