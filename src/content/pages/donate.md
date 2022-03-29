@@ -27,6 +27,6 @@ Donating is a selfless act. One of the major positive effects of donating money 
 
 
 
-**FOR BANK TRANSFERS AND MORE INFORMATION PLEASE CONTACT :- +91 7827557740**
+ **  FOR BANK TRANSFERS AND MORE INFORMATION PLEASE CONTACT +91 7827557740**
 
  <!--EndFragment-->
