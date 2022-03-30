@@ -250,6 +250,5 @@ const HomePage = ({ data }) => {
   )
 }
 
-<><a class="twitter-timeline" data-dnt="true" data-theme="light" href="https://twitter.com/sambhav____?ref_src=twsrc%5Etfw">Tweets by sambhav____</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></>
-
 export default HomePage
+
