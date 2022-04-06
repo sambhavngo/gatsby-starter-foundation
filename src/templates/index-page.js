@@ -25,6 +25,7 @@ import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import Seo from "../components/seo"
 import Icons from "../util/socialmedia.json"
+import {Container,Row,Col} from react-bootstrap
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!) {
@@ -246,6 +247,13 @@ const HomePage = ({ data }) => {
         </div>
       </div>
       <BlogListHome data={posts} />
+            <Container> 
+              <col lg={6}>
+                <div className="embed-responsive embed-responsive-16by9" >
+                <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/FHX_cjmleOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube video" > </iframe>
+                </col>
+                </div>
+            </Container>
     </Layout>
   )
 }
